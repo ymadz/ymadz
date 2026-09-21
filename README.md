@@ -1,11 +1,14 @@
-## about me<br>
-<br>computer science student focused on building practical web projects and improving my github portfolio.<br><br>
-working on   fullstack web apps, website prototypes, and student projects
-learning     react, next.js, supabase, backend fundamentals, and ai-assisted workflows
-interests    web development, ui/ux, automation, and applied ai
-open to      collaborations, freelance work, and small product ideas
-goal         build useful projects that feel clean, fast, and easy to use
+## about me
 
+currently building practical web projects and improving my github portfolio.
+
+- working on: fullstack web apps, website prototypes, and student projects
+- learning: react, next.js, supabase, backend fundamentals, and ai-assisted workflows
+- interested in: web development, ui/ux, automation, and applied ai
+- using: ai tools like codex and claude code to speed up planning, coding, debugging, and iteration
+- open to: collaborations, freelance work, and small product ideas
+- goal: build useful projects that feel clean, fast, and easy to use
+  
 ## socials
 [facebook](https://facebook.com/AhmadYahiya) · [linkedin](https://linkedin.com/in/AhmadYahiya)
 
