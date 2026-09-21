@@ -1,4 +1,5 @@
-## about me<br><br>computer science student focused on building practical web projects and improving my github portfolio.<br><br>
+## about me<br>
+<br>computer science student focused on building practical web projects and improving my github portfolio.<br><br>
 working on   fullstack web apps, website prototypes, and student projects
 learning     react, next.js, supabase, backend fundamentals, and ai-assisted workflows
 interests    web development, ui/ux, automation, and applied ai
