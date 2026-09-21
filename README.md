@@ -1,6 +1,9 @@
-# about me:
-### about me<br><br>currently building practical web projects and improving my github portfolio.<br><br>- working on: fullstack web apps, website prototypes, and student projects<br>- learning: react, next.js, supabase, backend fundamentals, and ai-assisted workflows<br>- interested in: web development, ui/ux, automation, and applied ai<br>- open to: collaborations, freelance work, and small product ideas<br>- goal: build useful projects that feel clean, fast, and easy to use
-
+### about me<br><br>computer science student focused on building practical web projects and improving my github portfolio.<br><br>```txt
+working on   fullstack web apps, website prototypes, and student projects
+learning     react, next.js, supabase, backend fundamentals, and ai-assisted workflows
+interests    web development, ui/ux, automation, and applied ai
+open to      collaborations, freelance work, and small product ideas
+goal         build useful projects that feel clean, fast, and easy to use
 
 ## 🌐 socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmad Yahiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmad Yahiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadyahiya05@gmail.com) 
