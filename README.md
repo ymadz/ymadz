@@ -99,4 +99,3 @@ currently building practical web projects and improving my github portfolio.
 ## dev quote
 
 ![dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-```
